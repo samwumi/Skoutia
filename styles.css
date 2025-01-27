@@ -44,16 +44,16 @@ header {
       color: var(--highlight-color);
     }
 
-   header .join-btn{
+   header .sign-up{
       background: linear-gradient(120deg, #03142E 40%, #0E1D66 100%);
       color: #ffffff;
       padding: 12px 24px;
       border-radius: 4px;
     }
 
-    header .join-btn:hover{
-      background: transparent;
-      color:  #0E1D66;
+    header .sign-up:hover{
+      background: transparent !important;
+      color:  #0E1D66 !important;
       border: 1px solid #0E1D66;
     }
 
