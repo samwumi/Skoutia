@@ -132,7 +132,7 @@ h1, h2 {
   background: white;
   border-radius: 15px;
   padding: 20px;
-  height: 300px;
+  height: 400px;
   box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s, box-shadow 0.3s;
 }
@@ -521,7 +521,7 @@ h2 {
     padding: 0 !important; 
   }
   .smart-card{
-    height: 400px;
+    height: 300px;
   }
 }
 
